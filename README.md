@@ -2,4 +2,4 @@
 
 Place bundle in directory: 
 
-C:\ProgramData\Autodesk\ApplicationPlugins\\-pyhop-.bundle
+C:\ProgramData\Autodesk\ApplicationPlugins\\pyhop.bundle
